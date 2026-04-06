@@ -6,7 +6,7 @@ This project is a backend system developed for managing financial data and user 
 
 The system focuses on clean API design, structured data handling, and role-based access logic.
 
-## Tech Stack
+ Tech Stack
 
 * Python
 * FastAPI
@@ -48,9 +48,9 @@ The system focuses on clean API design, structured data handling, and role-based
 * Recent transactions
 
 
-## API Endpoints
+ API Endpoints
 
-### User APIs
+ User APIs
 
 * POST `/users` → Create user
 * GET `/users` → Get all users
